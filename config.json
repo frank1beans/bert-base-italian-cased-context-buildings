@@ -1,12 +1,12 @@
 {
-  "model_path": "atipiqal/bert-italian-cased-civil",
+  "model_path": "models/encoders/bert-italian-cased-civil",
   "epochs": 15,
   "batch_size": 16,
   "learning_rate": 2e-5,
   "val_split": 0.2,
   "seed": 42,
-  "device": "cuda",
-  "model_dir_super": "model_out_super",
-  "model_dir_cat": "model_out_cat",
+  "device": "xpu",
+  "model_dir_super": "models/classifiers/model_out_super",
+  "model_dir_cat": "models/classifiers/model_out_cat",
   "dataset_path": "data/dataset.csv"
 }
