@@ -1,0 +1,123 @@
+0: #N/D
+1: Accessori per cartongessi
+2: Accessori per l'allestimento di servizi igienici
+3: Accessori per l'impermeabilizzazione
+4: Alberature (prima seconda e terza grandezza)
+5: Allestimenti e personalizzazioni di impianti elevatori
+6: Altre attività di bonifica e analisi di laboratorio
+7: Altri arredi standard
+8: Altri presidi antincendio
+9: Altri rivestimenti
+10: Altro materiale vegetale (terricci pacciamature)
+11: Apparecchi sanitari
+12: Arbusti
+13: Arredi per esterno
+14: Arredi per strutture ricettive
+15: Arredi su misura in legno
+16: Arredi su misura insegne e simboli
+17: Arredo bagno
+18: Arredo per uffici
+19: Assistenze murarie alla posa di impianti
+20: Barriere al vapore
+21: Blocchi in calcestruzzo vibrocompresso
+22: Boiserie in legno
+23: Bonifica materiali pericolosi
+24: Botole d'ispezione e accessori
+25: Canali di gronda
+26: Cancelli e recinzioni
+27: Canne per esalazioni
+28: Cappe di completamento
+29: Cappotti termici finiti a intonachino
+30: Cappotti termici finiti con rivestimenti ceramici
+31: Carpenterie metalliche
+32: Cassette di scarico
+33: Complementi edili per illuminazione esterna
+34: Contropareti in cartongesso resistente al fuoco
+35: Contropareti in cartongesso strandard e idrorepellente
+36: Contropareti in lastre di fibrocemento
+37: Controsoffitti a Buffles e ispezionabili
+38: Controsoffitti in altri materiali
+39: Controsoffitti in cartongesso
+40: Controsoffitti in fibre minerali e acustici
+41: Controsoffitti in pvc o materili plastici
+42: Controsoffitti metallici
+43: Demolizione elementi civili
+44: Demolizione elementi strutturali
+45: Dispositivi anticaduta e di protezione
+46: Elementi in laterizio
+47: Facciata vetrata montanti e traversi
+48: Facciata vetrata riportata a cellule
+49: Ghiaie sabbie e aggregati
+50: Grigliati
+51: Impermeabilizzazioni bituminose
+52: Impermeabilizzazioni liquide
+53: Impermeabilizzazioni sintetiche
+54: Impianti ascensori
+55: Impianti di cantiere
+56: Installazione cantiere
+57: Intonaco intumescente
+58: Intonaco per esterno
+59: Intonaco per interno
+60: Isolanti acustici
+61: Isolanti termici in copertura
+62: Isolanti termici su solai e pareti
+63: Manti di copertura con pannelli o lastre
+64: Manti stradali in asfalto e bitumi
+65: Marciapiedi e accessori
+66: Massetti alleggeriti
+67: Massetti pendenzati
+68: Mezzi di cantiere
+69: Montacarichi
+70: Murature in altri materiali
+71: Noli
+72: Opere in legno custom
+73: Parapetti metallici, ringhiere e inferriate
+74: Pareti impacchettabili
+75: Pareti in cartongesso resistente al fuoco
+76: Pareti in cartongesso strandard e idrorepellente
+77: Pareti mobili opache
+78: Pareti mobili vetrate
+79: Pavimentazione in autobloccanti o masselli
+80: Pavimenti in altri materiali
+81: Pavimenti in gomma o pvc
+82: Pavimenti in gres e ceramica
+83: Pavimenti in legno e laminato
+84: Pavimenti in moquette e zerbini
+85: Pavimenti industriali
+86: Pavimenti sopraelevati e flottanti
+87: Piattaforme elevatrici
+88: Porte blindate, portoni e bussole
+89: Porte in legno
+90: Porte metalliche
+91: Porte tagliafuoco
+92: Portoni tagliafuoco
+93: Preparazione delle superfici
+94: Pulizie di cantiere
+95: Rimozione di impianti tecnologici
+96: Rivestimenti in gres e ceramica
+97: Rivestimenti in legno
+98: Scavi e trasporti a discarica
+99: Scossaline
+100: Segnaletica orizzontale e verticale
+101: Serramenti in legno e alluminio
+102: Serramenti in pvc
+103: Serramenti metallici
+104: Setto autoportante cartongesso resistente al fuoco
+105: Setto autoportante in cartongesso strandard e idrorepellente
+106: Sistema di raccolta e smaltimento acque meteoriche
+107: Sistemi di facciata prefabbricati
+108: Sistemi di facciata ventilata
+109: Sistemi di partizione trasparenti, porte e parapetti vetrati
+110: Sottofondi pavimentazioni
+111: Tappezzanti
+112: Teli di separazione
+113: Tende da interno motorizzate
+114: Tende da sole e alla veneziana
+115: Tinteggiature intumescenti
+116: Tinteggiature su agglometari edili (Murature, cartongessi ecc.)
+117: Tinteggiature su metallo
+118: Tubi pluviali
+119: Velette di raccordo
+120: Verde pensile estensivo
+121: Vespai areati
+122: Zoccolini e accessori per pavimentazioni

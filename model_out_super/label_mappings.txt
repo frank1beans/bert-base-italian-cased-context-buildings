@@ -1,0 +1,39 @@
+0: #N/D
+1: Apparecchi sanitari e accessori
+2: Arredi standard
+3: Arredi su misura
+4: Assistenze murarie
+5: Cantierizzazioni
+6: Condotti e canne fumarie
+7: Controsoffitti
+8: Demolizioni e rimozioni
+9: Impianti elevatori
+10: Impianto distribuzione fluidi UTA
+11: Massetti, sottofondi, drenaggi, vespai
+12: Movimenti terra
+13: Opere da cartongessista
+14: Opere da fabbro
+15: Opere da facciatista e da cappottista
+16: Opere da falegname
+17: Opere da florovivaista
+18: Opere da intonacatore e stuccatore
+19: Opere da lattoniere
+20: Opere da serramentista
+21: Opere da tappezziere
+22: Opere da verniciatore
+23: Opere di bonifica e analisi di laboratorio
+24: Opere di coibentazione
+25: Opere di impermeabilizzazione
+26: Opere di pavimentazione
+27: Opere di rivestimento
+28: Opere di sicurezza
+29: Opere murarie
+30: Opere stradali, fognature e sistemazioni esterne
+31: Pareti mobili, attrezzate, impacchettabili
+32: Presidi antincendio
+33: Sistemi oscuranti per facciate
+34: Sistemi per verde pensile
+35: Strutture in altri materiali
+36: Strutture in carpenteria metallica
+37: Strutture in cemento armato in opera
+38: Tetti, manti di copertura e opere accessorie
